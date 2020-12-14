@@ -1,2 +1,2 @@
 # account-service
-Belajar microservice menggunakan springboot
+Learn microservice with springboot
